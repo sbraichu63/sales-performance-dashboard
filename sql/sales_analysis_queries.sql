@@ -1,6 +1,3 @@
--- Sales Performance Dashboard: SQL Analysis
--- Adjust table name to sales_clean when importing cleaned CSV.
-
 -- 1. Overall KPIs
 SELECT
     SUM(Revenue) AS total_revenue,
